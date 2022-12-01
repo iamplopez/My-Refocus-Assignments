@@ -17,7 +17,7 @@ function bmiresult(bmi){
     } else if ((bmi >= 10) && (bmi <= 17)){
         console.log("Underweight");
     }
-}
+} 
 
 
 bmiresult(bmi);
