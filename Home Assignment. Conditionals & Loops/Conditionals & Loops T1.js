@@ -2,7 +2,7 @@
 //95% Acceptable to continue home monitoring.
 //93–94% Seek advice from health professionals.
 //≤ 92% Seek urgent medical advice.
-var spo2 = 94;
+var spo2 = 97;
 
 function levelOxygenSaturation(spo2) {
     if (spo2 >= 96){
